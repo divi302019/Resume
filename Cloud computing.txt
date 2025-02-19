@@ -1,0 +1,89 @@
+Cloud computing
+----------------
+Cloud computing is a virtualization-based technology that allows users to create, configure, and customize applications via an internet connection. It involves using remote servers on the internet to store, manage, and access data online rather than relying on local drives
+. This technology includes a development platform, hard disk, software application, and database.
+
+Key Operations
+----------------
+
+Cloud computing enables various operations such as:
+
+Developing new applications and services
+
+Storage, backup, and recovery of data
+
+Hosting blogs and websites
+
+Delivery of software on demand
+
+Analysis of data
+
+Streaming videos and audios
+
+Characteristics
+------------------
+
+Cloud computing has several key characteristics:
+
+Agility: It works in a distributed computing environment, sharing resources among users and working very fast.
+-------
+High Availability and Reliability: The availability of servers is high and more reliable due to minimal infrastructure failure.
+------------------------------------
+High Scalability: It offers "on-demand" provisioning of resources on a large scale without needing engineers for peak loads.
+---------------
+Multi-Sharing: Multiple users and applications can work more efficiently with cost reductions by sharing common infrastructure.
+--------------
+Device and Location Independence: Users can access systems using a web browser regardless of their location or device.
+---------------------------------
+Maintenance: Easier maintenance as applications do not need to be installed on each user's computer.
+-----------
+Low Cost: Reduced costs as IT companies do not need to set up their own infrastructure and pay-as-per usage of resources.
+--------
+Services in the Pay-Per-Use Mode: Users can access services on the cloud using APIs and pay charges based on usage
+--------------------------------
+
+Types of Cloud Services
+-----------------------
+Cloud computing services are categorized into three main types:
+
+Infrastructure as a Service (IaaS):
+-----------------------------------
+                               Renting IT infrastructures like servers, virtual machines (VMs), storage, and networks from a cloud service vendor
+Platform as a Service (PaaS): 
+-----------------------------Providing an on-demand environment for developing, testing, delivering, and managing software applications.
+
+Software as a Service (SaaS): Centrally hosted and managed software services delivered over the internet on a subscription basis.
+-------------------------------
+Advantages
+----------
+Cloud computing offers several advantages:
+
+Cost Efficiency: Reduces capital costs of buying hardware and software.
+----------------
+Speed: Resources can be accessed in minutes with a few clicks.
+-------
+Scalability: Resources can be scaled up or down according to business requirements.
+--------------
+Productivity: Less operational effort is required, allowing the IT team to focus on achieving business goals.
+------------
+Reliability: Backup and recovery of data are less expensive and very fast.
+----------------
+Security: Cloud vendors offer a broad set of policies, technologies, and controls to strengthen data security
+----------
+
+Conclusion
+------------
+Cloud computing is a powerful technology that provides numerous benefits, including cost savings, scalability, and improved productivity. It enables businesses to focus on innovation rather than managing physical infrastructure, making it an essential tool for modern IT operations
+
+Resource
+----------
+
+Resource is a instance of service.
+
+Resource group:
+--------------.
+A resource group is a collection of resources that share the same lifecycle, permissions, and policies.
+
+Resource Manager:
+-------------------
+Azure Resource Manager is the deployment and management service for Azure. It provides a management layer that helps you to create, update, and delete resources in your Azure account.
